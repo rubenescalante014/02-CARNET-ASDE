@@ -1,0 +1,196 @@
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.exe.config
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.exe.manifest
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.application
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.exe
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.pdb
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CairoSharp.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Comun.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\DevExpress.CrossPlatform.Printing.DrawingEngine.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Dominio.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\GLibSharp.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\PangoSharp.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\System.Drawing.Common.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Acceso Datos.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\stdole.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Comun.pdb
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Dominio.pdb
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Acceso Datos.pdb
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.AssemblyReference.cache
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Carnet.resources
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Carnet1.resources
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.ListadoEmpleados.resources
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Login.resources
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Nuevo_Empleado.resources
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Properties.Resources.resources
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.GenerateResource.cache
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.CoreCompileInputs.cache
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.exe.manifest
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.application
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.CopyComplete
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.exe
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.pdb
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Llave.resources
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.LlaveAsignar.resources
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.exe.config
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.exe.manifest
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.application
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.exe
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.pdb
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CairoSharp.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Comun.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\DevExpress.CrossPlatform.Printing.DrawingEngine.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Dominio.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\GLibSharp.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\PangoSharp.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\System.Drawing.Common.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Acceso Datos.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\stdole.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Comun.pdb
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Dominio.pdb
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Acceso Datos.pdb
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.AssemblyReference.cache
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Carnet.resources
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Carnet1.resources
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.ListadoEmpleados.resources
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Llave.resources
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.LlaveAsignar.resources
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Login.resources
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Nuevo_Empleado.resources
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Properties.Resources.resources
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.GenerateResource.cache
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.CoreCompileInputs.cache
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.exe.manifest
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.application
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.CopyComplete
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.exe
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.pdb
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Carnet_Honorifico.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.exe.config
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.exe.manifest
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.application
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.exe
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CairoSharp.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Comun.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\DevExpress.CrossPlatform.Printing.DrawingEngine.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Dominio.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\GLibSharp.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\PangoSharp.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\System.Drawing.Common.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Acceso Datos.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\stdole.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Comun.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Dominio.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Acceso Datos.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.AssemblyReference.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Carnet_Honorifico.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Carnet.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Carnet1.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.ListadoEmpleados.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Llave.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.LlaveAsignar.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Login.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Nuevo_Empleado.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Properties.Resources.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.GenerateResource.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.CoreCompileInputs.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.exe.manifest
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.application
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.CopyComplete
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.exe
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.exe.config
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.exe.manifest
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.application
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.exe
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CARNET ASDE.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CairoSharp.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Comun.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\DevExpress.CrossPlatform.Printing.DrawingEngine.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Dominio.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\GLibSharp.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\PangoSharp.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\System.Drawing.Common.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Acceso Datos.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Comun.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Dominio.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\bin\Debug\Acceso Datos.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.AssemblyReference.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Carnet_Acceso_VIP.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Carnet_Honorifico.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Carnet.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Carnet1.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.ListadoEmpleados.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Llave.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.LlaveAsignar.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Login.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Nuevo_Empleado.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET_ASDE.Properties.Resources.resources
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.GenerateResource.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.CoreCompileInputs.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.exe.manifest
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.application
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.csproj.CopyComplete
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.exe
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\CARNET ASDE\obj\Debug\CARNET ASDE.pdb
