@@ -1,0 +1,23 @@
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Comun\bin\Debug\Comun.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Comun\bin\Debug\Comun.pdb
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.pdb
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Comun\bin\Debug\Comun.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Comun\bin\Debug\Comun.pdb
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Comun\bin\Debug\Comun.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Comun\bin\Debug\Comun.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Comun\bin\Debug\Comun.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Comun\bin\Debug\Comun.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Comun\obj\Debug\Comun.pdb

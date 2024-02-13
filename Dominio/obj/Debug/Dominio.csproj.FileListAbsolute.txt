@@ -1,0 +1,44 @@
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Dominio.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Acceso Datos.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Comun.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Acceso Datos.pdb
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Comun.pdb
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.pdb
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Dominio.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Dominio.pdb
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Acceso Datos.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Comun.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Acceso Datos.pdb
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Comun.pdb
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Dominio.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Dominio.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Acceso Datos.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Comun.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Acceso Datos.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Comun.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Dominio.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Dominio.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Acceso Datos.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Comun.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Acceso Datos.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Dominio\bin\Debug\Comun.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Dominio\obj\Debug\Dominio.pdb
