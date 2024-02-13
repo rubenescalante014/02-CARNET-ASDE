@@ -1,0 +1,36 @@
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Acceso Datos.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Acceso Datos.pdb
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Comun.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Comun.pdb
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.csproj.AssemblyReference.cache
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.csproj.CoreCompileInputs.cache
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.csproj.CopyComplete
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.dll
+C:\Users\Enger Hernandez\Desktop\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.pdb
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Acceso Datos.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Acceso Datos.pdb
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Comun.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Comun.pdb
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.csproj.AssemblyReference.cache
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.csproj.CoreCompileInputs.cache
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.csproj.CopyComplete
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.dll
+C:\Users\rescalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Acceso Datos.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Acceso Datos.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Comun.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Comun.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.csproj.AssemblyReference.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.csproj.CoreCompileInputs.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.csproj.CopyComplete
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Acceso Datos.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Acceso Datos.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Comun.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Acceso Datos\bin\Debug\Comun.pdb
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.csproj.AssemblyReference.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.csproj.CoreCompileInputs.cache
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.csproj.CopyComplete
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.dll
+C:\Users\ruben-escalante\Documents\DESARROLLO\02 CARNET ASDE\CARNET ASDE\Acceso Datos\obj\Debug\Acceso Datos.pdb
